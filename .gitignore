@@ -1,0 +1,8 @@
+.metadata/
+.settings/
+bin/
+target/
+*.class
+Thumbs.db
+.dart_tool/
+*.exe
